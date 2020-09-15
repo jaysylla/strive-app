@@ -35,7 +35,7 @@ p {
 
 
 .about_me {
-  margin: 20px 0;
+  margin: auto;
   width: 50vw;
   padding-left: 30px;
   padding-top: 20px;
@@ -56,7 +56,7 @@ border-color: black;
   color #a1b0ab;
   background-color: #f6fff8;
 }
-
+.con {
 .imgContainer {
   box-sizing: border-box;
   display: flex;
@@ -67,7 +67,7 @@ border-color: black;
   height: 100px;
   border: solid 5px #25274d;
   border-radius: 20px;
-  margin-left: 10px;
+  margin: auto;
 }
 
 img {
