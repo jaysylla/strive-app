@@ -35,11 +35,7 @@ p {
 
 
 .about_me {
-  margin: 15px 0;
-
-  box-sizing: border-box;
-border-style: dotted;
-border-color: black;
+  margin: 20px 0;
   width: 50vw;
   padding-left: 30px;
   padding-top: 20px;
@@ -55,27 +51,12 @@ border-color: black;
 border-style: dotted;
 border-color: black;
   width: 50vw;
-  padding-left: 30px;
-  padding-top: 20px;
-  border-radius: 20px;
+  padding-left: 50px;
+  padding-top: 30px;
+  border-radius: 50px;
   color #a1b0ab;
   background-color: #f6fff8;
 }
-.why_strive_school? {
-  margin: 15px 0;
-
-  box-sizing: border-box;
-border-style: dotted;
-border-color: black;
-  width: 50vw;
-  padding-left: 30px;
-  padding-top: 20px;
-  border-radius: 20px;
-  color #a1b0ab;
-  background-color: #f6fff8;
-  font-size: 14pt;
-}
-
 
 .imgContainer {
   box-sizing: border-box;
