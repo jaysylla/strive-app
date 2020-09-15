@@ -45,14 +45,13 @@ p {
   font-size: 14pt;
 }
 .my_businesses {
-  margin: 15px 0;
+  margin: auto;
 
   box-sizing: border-box;
 border-style: dotted;
 border-color: black;
-  width: 50vw;
-  padding-left: 50px;
-  padding-top: 30px;
+  width: 70vw;
+  padding: 10px;
   border-radius: 50px;
   color #a1b0ab;
   background-color: #f6fff8;
