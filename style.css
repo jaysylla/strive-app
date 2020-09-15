@@ -1,3 +1,81 @@
 body {background-color: #CCE3DE;
 }
+body {
+  width: 90vw;
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+  background-color: #f6f6f2;
+  color: black;
+  font-size: 14pt;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: "Red Hat Display", monospace;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+
+}
+
+header {
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 0 0 12px 12px;
+  border-top: none;
+  background-color: #25274d;
+  color: #f6f6f2;
+  text-align: center;
+  font-family: "Red Hat Display", monospace;
+}
+
+.about_me {
+  margin: 15px 0;
+}
+
+  box-sizing: border-box;
+  width: 50vw;
+  padding-left: 20px;
+  padding-top: 10px;
+  border-radius: 20px;
+  color #a1b0ab;
+  background-color: #f6fff8;
+  font-size: 14pt;
+}
+
+.imgContainer {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  overflow: hidden;
+  width: 320px;
+  height: 320px;
+  border: solid 5px #25274d;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
+img {
+  object-fit: cover;
+}
+
+
+footer {
+  color: white;
+  background-color: #25274d;
+  text-align: center;
+  border-radius: 5px 5px 0 0;
+}
+
+footer h5 {
+  font-weight: normal;
+  font-family: "Varela Round", sans-serif;
+}
 
