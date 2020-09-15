@@ -56,7 +56,11 @@ border-color: black;
   color #a1b0ab;
   background-color: #f6fff8;
 }
-.con {
+.contact_me {
+  text-align: center;
+  width: 20vw;
+  margin: auto;
+}
 .imgContainer {
   box-sizing: border-box;
   display: flex;
